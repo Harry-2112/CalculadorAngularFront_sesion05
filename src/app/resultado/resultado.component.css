@@ -1,0 +1,10 @@
+div {
+    height: 100%;
+    background: #DDFFFF;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    border-left: 3px solid #37A3F5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
